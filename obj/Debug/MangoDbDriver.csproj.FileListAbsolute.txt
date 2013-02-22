@@ -1,0 +1,8 @@
+c:\Projects\MangoDbDriver\MangoDbDriver\bin\Debug\MangoDbDriver.exe.config
+c:\Projects\MangoDbDriver\MangoDbDriver\bin\Debug\MangoDbDriver.exe
+c:\Projects\MangoDbDriver\MangoDbDriver\bin\Debug\MangoDbDriver.pdb
+c:\Projects\MangoDbDriver\MangoDbDriver\bin\Debug\MongoDB.Bson.dll
+c:\Projects\MangoDbDriver\MangoDbDriver\bin\Debug\MongoDB.Driver.dll
+c:\Projects\MangoDbDriver\MangoDbDriver\obj\Debug\MangoDbDriver.csprojResolveAssemblyReference.cache
+c:\Projects\MangoDbDriver\MangoDbDriver\obj\Debug\MangoDbDriver.exe
+c:\Projects\MangoDbDriver\MangoDbDriver\obj\Debug\MangoDbDriver.pdb
